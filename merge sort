@@ -1,0 +1,21 @@
+def merge_sort(arr):
+    if len(arr) > 1:
+        middle = len(arr) // 2
+        left = arr[:middle]
+        right = arr[middle:]
+
+        merge_sort(left)
+        merge_sort(right)
+
+        i = len(arr) - 1
+        while i >= 0:
+            if left and right:
+                if left[-1] >= right[-1]:
+                    arr[i] = left.pop()
+                else:
+                    arr[i] = right.pop()
+            else:
+                arr[i] = left.pop() if left else right.pop()
+            i -= 1
+    return arr
+1

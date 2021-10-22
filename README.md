@@ -12,7 +12,13 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 <br>
 <br>
+# What can you contribute?
 
-Anyone can add any DSA programs and any development project 
+There is always something to contribute to a project whether you are a novice or a veteran. In this project, you can add your favourite character as a card to the website! Or maybe you didn't like the line that you are reading right now and want to change that.Sure! Why not?
 
-All PRs will be accepted.
+# How can you contribute
+To contribute in Hacktoberfest2021 , checkout the given link and win hactoberfest t-shirt or can go green by choosing to plant a tree...
+https://hacktoberfest.digitalocean.com/
+
+# Anyone can add any DSA programs and any development project and can create a pull request.
+

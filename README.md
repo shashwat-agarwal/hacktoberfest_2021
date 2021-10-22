@@ -19,6 +19,7 @@ There is always something to contribute to a project whether you are a novice or
 # How can you contribute
 To contribute in Hacktoberfest2021 , checkout the given link and win hactoberfest t-shirt or can go green by choosing to plant a tree...
 https://hacktoberfest.digitalocean.com/
-
-# Anyone can add any DSA programs and any development project and can create a pull request.
+<br>
+<br>
+ Anyone can add any DSA programs and any development project and can create a pull request.
 
